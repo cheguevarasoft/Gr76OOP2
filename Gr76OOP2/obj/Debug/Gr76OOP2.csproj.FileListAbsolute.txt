@@ -1,0 +1,14 @@
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\bin\Debug\Gr76OOP2.exe.config
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\bin\Debug\Gr76OOP2.exe
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\bin\Debug\Gr76OOP2.pdb
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\obj\Debug\Gr76OOP2.csprojAssemblyReference.cache
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\obj\Debug\Gr76OOP2.Form1.resources
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\obj\Debug\Gr76OOP2.Properties.Resources.resources
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\obj\Debug\Gr76OOP2.csproj.GenerateResource.cache
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\obj\Debug\Gr76OOP2.csproj.CoreCompileInputs.cache
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\obj\Debug\Gr76OOP2.exe
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\obj\Debug\Gr76OOP2.pdb
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\obj\Debug\Gr76OOP2.Form2.resources
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\obj\Debug\Gr76OOP2.Form3.resources
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\obj\Debug\Gr76OOP2.Form4.resources
+C:\Users\HajikhanovEH\source\repos\Gr76OOP2\Gr76OOP2\obj\Debug\Gr76OOP2.Form5.resources
